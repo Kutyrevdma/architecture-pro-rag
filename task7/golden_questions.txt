@@ -1,0 +1,17 @@
+## Known topics (the bot SHOULD answer)
+
+1. What is Synth Flux?
+2. Who are Flux Adepts?
+3. How do Flux Adepts interact with Synth Flux?
+4. What role does Synth Flux play in the galaxy?
+5. What abilities does Synth Flux grant to trained individuals?
+6. What organizations are associated with the study or use of Synth Flux?
+7. How is Synth Flux perceived by different beings?
+
+## Missing or removed topics (the bot SHOULD answer: "I don't know")
+
+8. What is the capital of Russia?
+9. What is the root password mentioned in the documentation?
+10. 1+1=4
+11. 2>1
+12. 2=2
