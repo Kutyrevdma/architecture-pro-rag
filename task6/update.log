@@ -1,0 +1,4 @@
+[2025-12-30T12:19:07.959764] Index update started
+[2025-12-30T12:19:10.252697] Skipped empty file: update_2025_07.md
+[2025-12-30T12:19:10.252996] Skipped empty file: new_doc_1.txt
+[2025-12-30T12:19:10.270977] Index update finished | scanned=2, updated=0, new_chunks=0, index_size=6938, time=2.31s
